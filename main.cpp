@@ -1,4 +1,4 @@
-// COMSC-210 | Lab 16 | Kai-Cheng Mei
+// COMSC-210 | Lab 10 | Kai-Cheng Mei
 #include <iostream>
 using namespace std;
 
