@@ -2,8 +2,9 @@
 using namespace std;
 
 int main() {
-
-    // add any code here, sort of a 'hello world plus' code block
-
+    string h;
+    h="Hello World";
+    cout<<h<<endl;
+    
     return 0;
 }
